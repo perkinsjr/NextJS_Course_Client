@@ -11,7 +11,7 @@ Firstly you should be using this for only a reference and not copy and pasting t
 5. Open in your favorite editor and change your projectId found in `sanity.js` to match yours.
 6. Open `_app.js` and change your StaticKitProvide site to your site.
 7. Making changes? Run `npm dev`.
-8. To deploy run `vercel` from the root.
+8. To deploy run `vercel` from the root and follow the on screen instructions.
 
 ### Found an issue with the course?
 
