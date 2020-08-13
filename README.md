@@ -1,30 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJs Course Clientside Code
 
-## Getting Started
+## How to use this?
 
-First, run the development server:
+Firstly you should be using this for only a reference and not copy and pasting the code as you won't learn anything, however.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. Make sure you have a vercel account (https://vercel.com)
+2. Make sure you have a sanity account (https://sanity.io)
+3. Make sure you have a StaticKitProvider account (https://statickit.com)
+4. Run `npm install`
+5. Open in your favorite editor and change your projectId found in `sanity.js` to match yours.
+6. Open `_app.js` and change your StaticKitProvide site to your site.
+7. Making changes? Run `npm dev`.
+8. To deploy run `vercel` from the root.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Found an issue with the course?
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+1. Send me an email jamesperkins@hey.com
+2. Let me know exactly the issue so I can edit the course for the next person!
 
-## Learn More
+### Still need help?
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Send me an email jamesperkins@hey.com and I will get back to you with some guidance, or look for the discord in your course material.
