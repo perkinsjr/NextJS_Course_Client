@@ -44,7 +44,7 @@ export default function MyApp({ Component, pageProps }) {
     <ThemeProvider>
       <ColorModeProvider value="light">
         <GlobalStyle>
-          <StaticKitProvider site="RANDOM_SITE">
+          <StaticKitProvider site="1e9b12e6d292">
             <DefaultSeo {...SEO} />
             <Component {...pageProps} />
           </StaticKitProvider>
